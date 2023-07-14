@@ -6,7 +6,7 @@ metadata:
   annotations:
     jira/project-key: SPP
     github.com/project-slug: ONSdigital/sml-supporting-info
-    backstage.io/linguist: https://github.com/backstage-dummy-org/sml-python-small/
+    backstage.io/linguist: https://github.com/backstage-dummy-org/sml-supporting-info/
   tags:
     - documentation
     - sml
