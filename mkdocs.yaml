@@ -1,5 +1,5 @@
-site_name: SML Supporting Info
-site_description: Supporting information and documentation for the SML.
+site_name: 'SML Supporting Info'
+site_description: 'Supporting information and documentation for the SML.'
 
 nav:
   - Overview: README.md
