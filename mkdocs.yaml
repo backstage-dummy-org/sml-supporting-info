@@ -2,7 +2,7 @@ site_name: 'SML Supporting Info'
 site_description: 'Supporting information and documentation for the SML.'
 
 nav:
-  - Overview: ../README.md
+  - Overview: index.md
   - 'Method Info':
     - 'Date Adjustment': method_info/date-adjustment/date_adjustment.md
     - 'Selective Editing': method_info/selective-editing/selective_editing.md
