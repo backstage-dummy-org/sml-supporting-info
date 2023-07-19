@@ -1,0 +1,12 @@
+site_name: SML Supporting Info
+site_description: Supporting information and documentation for the SML.
+
+nav:
+  - Overview: README.md
+  - 'Method Info':
+    - 'Date Adjustment': date_adjustment.md
+    - 'Selective Editing': selective_editing.md
+    - 'Method Info Template': method_user_note_template.md
+
+plugins:
+  - techdocs-core
