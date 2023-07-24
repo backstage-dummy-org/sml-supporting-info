@@ -17,4 +17,3 @@ Unless stated otherwise, the SML codebase is released under the [MIT License](ht
 
 The documentation is available under the terms of the [Open Government 3.0 license](https://github.com/ONSdigital/sml-supporting-info/blob/main/LICENSE).
 
-- test
