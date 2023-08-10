@@ -9,5 +9,6 @@ nav:
       - Method Info Template: method_user_note_template.md
   - Architecture Decision Records:
       - testing: testing.md
+      - testing: testing.md
 plugins:
   - techdocs-core
