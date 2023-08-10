@@ -1,13 +1,13 @@
-site_name: 'SML Supporting Info'
-site_description: 'Supporting information and documentation for the SML.'
-docs_dir: 'method-info'
-
+site_name: SML Supporting Info
+site_description: Supporting information and documentation for the SML.
+docs_dir: method-info
 nav:
   - Overview: index.md
-  - 'Method Info':
-    - 'Date Adjustment': 'date-adjustment/date_adjustment.md'
-    - 'Selective Editing': 'selective-editing/selective_editing.md'
-    - 'Method Info Template': 'method_user_note_template.md'
-
+  - Method Info:
+      - Date Adjustment: date-adjustment/date_adjustment.md
+      - Selective Editing: selective-editing/selective_editing.md
+      - Method Info Template: method_user_note_template.md
+  - Architecture Decision Records:
+      - testing: testing.md
 plugins:
   - techdocs-core
