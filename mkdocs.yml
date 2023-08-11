@@ -7,7 +7,5 @@ nav:
       - Date Adjustment: date-adjustment/date_adjustment.md
       - Selective Editing: selective-editing/selective_editing.md
       - Method Info Template: method_user_note_template.md
-  - Architecture Decision Records:
-      - NewDecision: NewDecision.md
 plugins:
   - techdocs-core
