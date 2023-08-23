@@ -1,6 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  title: SML Supporting Info
   name: sml-supporting-info
   description: Supporting documentation for the methods available from the Statistical Methods Library.
   annotations:
