@@ -17,7 +17,7 @@ metadata:
       title: SML Website
       icon: search
 spec:
-  type: library
+  type: documentation
   lifecycle: production
   owner: group:spp-sml
   system: sml
